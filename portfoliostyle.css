@@ -1,6 +1,6 @@
 .CONTAINER{ 
     width: auto;
-    max-width: 1170px;
+    max-width: 100%;
 
     display: flex;
     flex-direction: column;
@@ -89,6 +89,7 @@ a{
     box-sizing: border-box;
     border-radius: 8px;   
 }
+
 
 
 
